@@ -1,0 +1,17 @@
+"empresa-vue" = proyecto vue
+
+"empresa" = api php con las consultas  (3306, localhost, sin contraseña)
+
+"empresa.sql" = base de datos (3306, localhost, sin contraseña)
+
+-----------------------------------------
+
+-importar react router-dom
+-importar bootstrap
+-importar sweet alert2
+-consultar api
+
+by Alan
+
+Github:
+
